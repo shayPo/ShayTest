@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ShayP</string>
+    <string name="post_image">image</string>
+    <string name="search_hint">search for something?</string>
+    <string name="play">play</string>
+    <string name="link_type">link</string>
+    <string name="video_type">video</string>
+</resources>
